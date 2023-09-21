@@ -1,6 +1,6 @@
 # Disco Revival
 
-This is the source code for our Ludum Dare 46 game [Disco Revival](https://pyxel-error.itch.io/disco-revival).
+This is the source code for our Ludum Dare 46 game [Disco Revival](https://ldjam.com/events/ludum-dare/46/disco-revival).
 
 ## Description
 
